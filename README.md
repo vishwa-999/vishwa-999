@@ -2,40 +2,44 @@
 ### Bridging the gap between High-Level Finance, Data Analytics, and AI
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vishwa-999&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💼 About Me
-I am a **Dynamic Finance Manager** with 8+ years of experience specializing in **Financial Planning & Transformation**. My mission is to modernize legacy financial systems using **Python, SQL, and Power BI** to drive board-level insights and multi-million pound savings.
+## 👨‍💼 Professional Profile
+I am a **Dynamic Finance Manager** with 8+ years of expertise in **Financial Planning & Transformation**. I specialize in modernizing legacy systems and translating complex datasets into **actionable, board-level insights** that drive commercial performance.
 
-- 🔭 **Current Focus:** Automating scalable cash flow and FP&A workflows.
-- 🎓 **Academic Edge:** MSc in FinTech & PhD Researcher in Econometrics.
-- 💡 **Value Proposition:** Reducing reporting cycles by 40% through automation and causal inference.
-- ⚡ **Goal:** Senior Leadership roles in Finance and Business Development.
+- 🎯 **Strategic Focus:** Cashflow Forecasting, Scenario Planning, and ROI Optimization.
+- 🎓 **Academic Edge:** PhD Researcher in Econometrics & MSc in FinTech.
+- ⚡ **Impact:** Reduced monthly reporting cycles by **40% (100+ hours)** through Python-led automation.
+- 💡 **Mission:** Navigating ambiguity to provide high-clarity strategic direction for senior leadership.
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🛠 Strategic Expertise & Tech Stack
 
-### 💹 Strategic Finance & FP&A
-![Budgeting](https://img.shields.io/badge/-Budgeting%20%26%20Forecasting-2ecc71?style=flat) ![ROI](https://img.shields.io/badge/-ROI%20Modelling-27ae60?style=flat) ![Audit](https://img.shields.io/badge/-Audit%20%26%20Compliance-16a085?style=flat) ![P&L](https://img.shields.io/badge/-P%26L%20Optimization-2980b9?style=flat)
+### 💹 Strategic FP&A & Leadership
+![Cashflow](https://img.shields.io/badge/-Cashflow%20Forecasting-2ecc71?style=flat) ![Strategy](https://img.shields.io/badge/-Strategic%20Advisory-27ae60?style=flat) ![Insight](https://img.shields.io/badge/-Insight%20Translation-16a085?style=flat) ![ROI](https://img.shields.io/badge/-ROI%20Modelling-2980b9?style=flat)
+
+* **Financial Planning:** Budgeting, Variance Analysis, and Long-range Planning.
+* **Operational Control:** Cashflow Management, CAPEX Planning, and Cost Optimisation.
+* **Transformation:** Process Redesign, ERP Modernisation (incl. SUN, Xero), and Automation.
 
 ### 🐍 Data Science & Automation
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🤖 AI & Econometrics
-- **Predictive Analytics:** Time-Series Forecasting (Prophet)
-- **Modelling:** Causal Inference & AI-enabled Reporting
-- **Tools:** Pandas, NumPy, Scikit-learn
+### 🤖 Advanced Analytics
+* **Predictive Modelling:** Time-Series Forecasting (Prophet) & Causal Inference.
+* **Visualization:** Interactive Power BI Dashboards for Executive Business Reviews.
+* **Econometrics:** Quantitative Risk Assessment & Financial Impact Modelling.
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Executive Dashboard Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwa-999&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-999&layout=compact&theme=merko&hide=html,css" />
 </p>
 
 ---
@@ -45,4 +49,4 @@ I am a **Dynamic Finance Manager** with 8+ years of experience specializing in *
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwaybhatt@gmail.com)
 
 ---
-*“Navigating ambiguity to translate complex datasets into actionable, board-level insights.”*
+*“Translating the numbers into the narrative that builds the business.”*
