@@ -1,5 +1,8 @@
 # 🚀 Vishwa Y Bhatt | Finance Transformation & Strategic Advisory
 ### Bridging the gap between High-Level Finance, Data Analytics, and AI
+<p align="center">
+  <img src="https://github.com/vishwa-999.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vishwa-999&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
